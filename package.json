@@ -1,0 +1,26 @@
+{
+  "name": "node-web-server",
+  "version": "1.0.0",
+  "description": "A simple Node Web Server",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mk-in/node-web-server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mk-in/node-web-server/issues"
+  },
+  "homepage": "https://github.com/mk-in/node-web-server#readme",
+  "dependencies": {
+    "express": "^4.15.3",
+    "hbs": "^4.0.1"
+  },
+  "devDependencies": {
+    "eslint-config-rallycoding": "^3.2.0"
+  }
+}
